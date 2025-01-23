@@ -34,8 +34,7 @@ MicroMedic: HealthDefender, oyuncuları insan vücudunun içinde eğitici ve aks
 
 ## Kullanılan Araçlar ve Teknolojiler
 
-- **Unity 2022.3.7f1:** Oyun geliştirme platformu.
-- **Visual Studio:** Kod düzenleme ve hata ayıklama.
+- **Unity 2022.3.7f1:** Oyun geliştirme platformu sürümü.
 - **Procreate:** Özel görsel varlıkların tasarımı.
 - **Pixabay:** Ses efektleri kaynağı.
 
@@ -52,7 +51,7 @@ MicroMedic: HealthDefender, oyuncuları insan vücudunun içinde eğitici ve aks
 
 ## Tanıtım Videosu
 
-Oynanış videosunu YouTube'da izleyin: [MicroMedic Oynanış Videosu](https://youtu.be/m_FbhqwQgVg?si=ZXUwiu0yc8WHbWtg)
+Oyunu oynadığım ve kullandığım mekanikleri anlattığım video: [MicroMedic Oynanış Videosu](https://youtu.be/m_FbhqwQgVg?si=ZXUwiu0yc8WHbWtg)
 
 ---
 
