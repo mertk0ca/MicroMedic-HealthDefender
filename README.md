@@ -2,7 +2,7 @@
 
 ## Oyun Hakkında
 
-MicroMedic: HealthDefender, oyuncuları insan vücudunun içinde eğitici ve aksiyon dolu bir yolculuğa çıkaran bir 2D platform oyunudur. Ana karakterimiz Dr. Mido, çeşitli organlarda hastalıklarla savaşır ve özel tedaviler ile ilaçları kullanarak hastalıkları yenmeye çalışır. Her seviye farklı bir organ veya sistemi temsil eder, biyoloji ve sağlık hakkında bilgi verirken eğlenceli bir oyun deneyimi sunar.
+MicroMedic: HealthDefender, oyuncuları insan vücudunun içinde eğitici ve aksiyon dolu bir yolculuğa çıkaran bir 2D platform oyunudur. Ana karakter Dr. Mido, çeşitli organlarda hastalıklarla savaşır ve özel tedaviler ile ilaçları kullanarak hastalıkları yenmeye çalışır. Her seviye farklı bir organ veya sistemi temsil eder, biyoloji ve sağlık hakkında bilgi verirken eğlenceli bir oyun deneyimi sunar.
 
 ---
 
@@ -15,7 +15,7 @@ MicroMedic: HealthDefender, oyuncuları insan vücudunun içinde eğitici ve aks
 - **Seviye Tasarımı:** Her seviye, belirli bir organın yapısına ve zorluklarına uygun olarak tasarlanmıştır. Bulmacalar, kırılabilir platformlar ve hareketli nesneler oynanışı zenginleştirir.
 
 ### Boss Dövüşleri
-- **Özgün Boss Hareketleri:** Bosslar, oyuncunun strateji geliştirmesini gerektiren özel hareket ve saldırı paternlerine sahiptir.
+- **Boss Hareketleri:** Bosslar, oyuncunun strateji geliştirmesini gerektiren özel hareket ve saldırı paternlerine sahiptir.
 - **Can Barı ve Geri Bildirim:** Bossların can barı görünür ve hasar aldıklarında görsel efektler (ör. renk değişimleri) tetiklenir.
 
 ### Eğitici İçerik
@@ -37,15 +37,6 @@ MicroMedic: HealthDefender, oyuncuları insan vücudunun içinde eğitici ve aks
 - **Unity 2022.3.7f1:** Oyun geliştirme platformu sürümü.
 - **Procreate:** Özel görsel varlıkların tasarımı.
 - **Pixabay:** Ses efektleri kaynağı.
-
----
-
-## Nasıl Oynanır
-
-1. **İndirin ve Başlatın:** Depoyu klonlayın ve oyunu Unity editöründen veya derlenmiş bir çalıştırılabilir dosyadan başlatın.
-2. **Ana Menü:** Yeni bir oyuna başlayın, kayıtlı bir oturuma devam edin veya seviyeler arası içeriği keşfedin.
-3. **Oyun Kontrolleri:** Klavye ile hareket edin. Nesneleri alın, düşmanlarla savaşın ve ilerlemek için bulmacaları çözün.
-4. **Eğitici Bilgiler:** Her seviyede organ ve ilgili sağlık sorunları hakkında bilgi veren parşömenleri toplayın.
 
 ---
 
