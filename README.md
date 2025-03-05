@@ -60,7 +60,3 @@ Oyunu oynadığım ve kullandığım mekanikleri anlattığım video: [MicroMedi
 
 Sorularınız veya önerileriniz için [Mert Koca](mailto:mertkoca.business@hotmail.com) ile iletişime geçebilirsiniz.
 
----
-
-Dr. Mido ile insan vücudunda hastalıklarla savaşırken keyifli bir macera yaşayın! MicroMedic: SHealthDefender'ı keşfedin!
-
